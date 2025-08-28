@@ -1,0 +1,150 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+    border:border-box;
+
+}
+.navbar{
+    height:70px;
+    background-color: #0f1111;
+    color: white;
+    display:flex;
+    justify-content:space-evenly;
+
+}
+
+.nav-logo{
+    height:50px;
+    width:113px;
+}
+.border{
+    border:1.5px solid transparent;
+}
+.logo{
+
+    background-image: url("Screenshot 2025-08-26 205755.jpg");
+    height:50px;
+    width:113px;
+    background-size:cover;
+}
+.border:hover{
+    border:1.5px solid white;
+}
+.nav-add{
+    font-size:0.7 rem;
+    margin-left:15px;
+    
+}
+.nav-search{
+    margin-left:15px;
+    width: 600px;
+    height:50px;
+    display:flex;
+    border-radius:4px;
+    background-color:orange;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.search-icon{
+    width:40px;
+    box-align:center;
+    justify-content:space-evenly; 
+    align-items:center;
+    display:flex;
+    color:black;
+}
+.search-input{
+    width: 570px;
+    size:1 rem;
+    border:none;
+
+}
+.span{
+    font-size:7 rem;
+}
+.sec{
+    font-size:0.85 rem;
+    font-weight:700;
+}
+.text{
+    margin-left:15px;
+}
+.text2{
+    margin-left:15px;
+}
+.cart{
+    font-size:0.85 rem;
+    font-weight:700px;
+    margin-left:15px;
+}
+.carticon{
+    size:100 px;
+}
+.all{
+    background-color: #0b0b3d;
+    font-size: medium;
+    color: white;
+    
+    
+
+}
+.panel{
+    
+    display:flex;
+    height:50px;
+    background-color:rgb(11, 11, 61);
+}
+
+.all{
+    margin-left:15px;
+    border: 10px;
+
+}
+.panelops{
+    color:white;
+    font: size 0.9rem;
+    display:flex;
+    justify-content: space-evenly;
+    margin-left:30px;
+
+}
+.t,.c,.r,.g{
+    margin-left:200px;
+}
+.herosec{
+    background-image:url("pic1.jpg");
+    height:380px;
+    background-size: cover;
+
+    
+}
+.hi{
+    background-image:url("pic3.jpg");
+    height:480px;
+    background-size: cover;
+}
+.hi2{
+    background-image:url("pic4.jpg");
+    height:480px;
+    background-size: cover;
+    
+
+}
+.hi3{
+    background-image:url("pic5.jpg");
+    height:480px;
+    background-size: cover;
+    
+}
+.hi4{
+    background-image:url("pic6.jpg");
+    height:480px;
+    background-size: cover;
+}
+.hi5{
+   background-image:url("pic7.jpg");
+    height:400px;
+    background-size: cover; 
+    background-position: center;
+}
